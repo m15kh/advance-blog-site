@@ -72,4 +72,3 @@ python manage.py runserver
 
 Mohammad Khalili (Liam Williams) - mohammad.khalili1515@gmail.com
 
-Project Link: [https://github.com/liam1550/blog_site2](https://github.com/liam1550/blog_site2)
